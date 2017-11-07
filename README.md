@@ -10,7 +10,7 @@ This meetup is hosted by the [Statistical Office of the Canton of Zurich](http:/
 [Max Grütter](max.gruetter@statistik.ji.zh.ch), Statistical Office
 
 ## Talk 2: Mastering Corporate Design with R
-[Andrea Schnell](andrea.schnell@statistik.ji.zh.ch) and [Thomas Lo Russo](thomas.lorusso@statistik.ji.zh), Statistical Office  
+[Andrea Schnell]("mailto:andrea.schnell@statistik.ji.zh.ch") and [Thomas Lo Russo](thomas.lorusso@statistik.ji.zh), Statistical Office  
 [Slides](https://schnllr.github.io/Meetup)
 
 ## Talk 3: Illustration of pupils' diversity with R
