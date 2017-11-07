@@ -7,7 +7,8 @@ This meetup is hosted by the [Statistical Office of the Canton of Zurich](http:/
 [Peter Moser](mailto:peter.moser@statistik.ji.zh.ch), Statistical Office
 
 ## Talk 1: Read and process unstructured data with R
-[Max Grütter](mailto:max.gruetter@statistik.ji.zh.ch), Statistical Office
+[Max Grütter](mailto:max.gruetter@statistik.ji.zh.ch), Statistical Office  
+[Slides](https://github.com/statistikZH/RMeetup/blob/master/unstructered_data.pdf)
 
 ## Talk 2: Mastering Corporate Design with R
 [Andrea Schnell](mailto:andrea.schnell@statistik.ji.zh.ch) and [Thomas Lo Russo](mailto:thomas.lorusso@statistik.ji.zh), Statistical Office  
