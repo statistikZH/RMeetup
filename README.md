@@ -20,6 +20,6 @@ This meetup is hosted by the [Statistical Office of the Canton of Zurich](http:/
 
 
 ## Talk 4: Making Public Data Public
-[Christoph Sax](mailto:christoph@christophsax.com), Christoph Sax Data Analytics http://www.christophsax.com/  
+[Christoph Sax](mailto:christoph@christophsax.com), Christoph Sax Data Analytics
 [Slides](http://www.christophsax.com/slides/171107-meetup/slides.html)
  
