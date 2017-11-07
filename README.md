@@ -1,5 +1,5 @@
 # Zurich R User Group
-## <font color=#009ee0>November Edition: The use of R in public administration</font>
+## November Edition: The use of R in public administration
 
 This meetup is hosted by the [Statistical Office of the Canton of Zurich](http://statistik.zh.ch/)
 
